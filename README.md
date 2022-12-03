@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya SK - aka SK ---> <a href="https://youtube.com/@codebusher" target="_blank"> code busher </a>
 
-## I'm a Programmer and aslo a App  & Websites Developer!
+## I'm a Programmer and also a App  & Websites Developer!
 - 🎓 Bachelor of Information Technology in KSRIET.
 - 🔭 Software Engineer and also make programming tutorials on <a href="https://youtube.com/@codebusher" target="_blank"> code busher </a>
 - 🥅 2023 Goals: Develop an own application etc...
